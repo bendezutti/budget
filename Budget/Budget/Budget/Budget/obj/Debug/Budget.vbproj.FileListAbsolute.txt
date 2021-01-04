@@ -1,0 +1,24 @@
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\obj\Debug\Budget.vbprojAssemblyReference.cache
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\obj\Debug\Budget.Form1.resources
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\obj\Debug\Budget.Resources.resources
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\obj\Debug\Budget.vbproj.GenerateResource.cache
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\obj\Debug\Budget.vbproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\bin\Debug\Budget.exe.config
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\bin\Debug\Budget.exe
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\bin\Debug\Budget.pdb
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\bin\Debug\Budget.xml
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\obj\Debug\Budget.exe
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\obj\Debug\Budget.xml
+C:\Users\Ben\Desktop\All Folders\College Work\Computer Science\CSC 111\HW\Budget\Budget\Budget\obj\Debug\Budget.pdb
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\bin\Debug\Budget.exe.config
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\bin\Debug\Budget.exe
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\bin\Debug\Budget.pdb
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\bin\Debug\Budget.xml
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\obj\Debug\Budget.vbprojAssemblyReference.cache
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\obj\Debug\Budget.Form1.resources
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\obj\Debug\Budget.Resources.resources
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\obj\Debug\Budget.vbproj.GenerateResource.cache
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\obj\Debug\Budget.vbproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\obj\Debug\Budget.exe
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\obj\Debug\Budget.xml
+C:\Users\benja\Desktop\Budget\Budget\Budget\Budget\obj\Debug\Budget.pdb
